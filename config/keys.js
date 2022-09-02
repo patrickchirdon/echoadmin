@@ -1,7 +1,6 @@
 module.exports = {
 
   MongoURI:
-  'mongodb+srv://patrick:Tobyismycat1@cluster5.td6sf.mongodb.net/test'
-    
+  'mongodb+srv://patrick:Tobyismycat1@cluster0.td6sf.mongodb.net/ebooks'  
 
 };
